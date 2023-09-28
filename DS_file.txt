@@ -1,0 +1,34 @@
+Reg. Data Structure Lab File:
+
+Course Code: PCS-302
+
+All students are hereby informed that they need to get their Practical File checked by the end of this week. 
+
+List of the Practicals :
+1. 
+a) Write a C program to find out the sum all even elements from an array.
+b) Write a C program to find out union of two given arrays.
+c) Write a C program to find out intersection of two given arrays.
+d) Write a C program to store N elements into the array and the reverse the
+contents of that array.
+2. 
+a) Write a C program to find element with maximum value from an array.
+b) Write a C program to create a dynamic array.
+c) Write a C program to Implementation Stack Using Array.
+3. 
+a) Write a C program to Implementation queue Using Array.
+b) Write a C program to convert infix expression into postfix expression.
+c) Write a C program to evaluate any postfix expression.
+4.
+b) Create a Single Linked List with pointers left & right where new nodes
+are always added after the right. Then user will input a key that should be
+searched in the linked list & the element having the key value should be
+deleted & linked list should be updated. If elements is not found then a
+message “Unsuccessful Search" should be displayed.
+
+Note:
+1)	The file should contain a front page, index (with date, as per the Time-Table) and programs with their outputs at the end.
+2)	A4 sized pages and strip file cover should be used for making the practical file.
+3)	Name of faculty:
+Mr. Devesh Pandey for III-A (Complete), III-B (G3 & G4) &
+Mr. Anubhav Bewerwal for III-B (G1 & G2) & III-C (Complete)
